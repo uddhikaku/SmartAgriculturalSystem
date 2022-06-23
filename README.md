@@ -28,7 +28,7 @@ Smart Agricultural System  allows to interact and improve the management of agri
 
 # Thingspeak Server SS
 
-<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%206.png" width="25%" />
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%206.png" width="50%" />
 
 
 ---
