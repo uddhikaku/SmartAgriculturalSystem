@@ -6,14 +6,14 @@ Smart Agricultural System  allows to interact and improve the management of agri
 
 material list:
 
-  UNO+WiFi R3 ATmega328P+ESP8266 32Mb Memory USB-TTL CH340G
-  NodeMcu WIFI Internet Development Board ESP8266 CP2102
-  AM2302B DHT22 Digital Temperature And Humidity Sensor AM2302
-  Soil Moisture Sensor And Soil Detector Module
-  DC12V 6L/Min Large Flow Rate Water Pump Micro High Pressure Diaphragm Water Sprayer
-  LCD16x02 Display Interactive Interface single-chip Blue
-  5V 2 Channel Relay Module With Optocoupler LED
-  Electric Solenoid Valve 1/2" Plastic DC 12V 0.6A N/C For Water Air
+  1. UNO+WiFi R3 ATmega328P+ESP8266 32Mb Memory USB-TTL CH340G
+  2. NodeMcu WIFI Internet Development Board ESP8266 CP2102
+  3. AM2302B DHT22 Digital Temperature And Humidity Sensor AM2302
+  4. Soil Moisture Sensor And Soil Detector Module
+  5. DC12V 6L/Min Large Flow Rate Water Pump Micro High Pressure Diaphragm Water Sprayer
+  6. LCD16x02 Display Interactive Interface single-chip Blue
+  7. 5V 2 Channel Relay Module With Optocoupler LED
+  8. Electric Solenoid Valve 1/2" Plastic DC 12V 0.6A N/C For Water Air
 ---
 
 # Description
