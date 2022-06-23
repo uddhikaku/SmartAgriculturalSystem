@@ -4,6 +4,35 @@ Smart Agricultural System  allows to interact and improve the management of agri
 
 ---
 
+# Layouts
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%201.png" width="25%" />
+
+---
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%202.png" width="25%" />
+
+---
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%203.png" width="25%" />
+
+---
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%204.png" width="25%" />
+
+---
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%205.png" width="25%" />
+
+---
+
+# Thingspeak Server SS
+
+<img src="https://github.com/uddhikaku/SmartAgriculturalSystem/blob/main/Layout%206.png" width="25%" />
+
+
+---
+
 material list:
 
   1. UNO+WiFi R3 ATmega328P+ESP8266 32Mb Memory USB-TTL CH340G
